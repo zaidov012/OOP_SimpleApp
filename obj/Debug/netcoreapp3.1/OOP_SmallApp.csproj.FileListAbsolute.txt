@@ -1,0 +1,13 @@
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.csprojAssemblyReference.cache
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.AssemblyInfoInputs.cache
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.AssemblyInfo.cs
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\OOP_SmallApp\bin\Debug\netcoreapp3.1\OOP_SmallApp.exe
+D:\CSharpProjects\OOP_SmallApp\bin\Debug\netcoreapp3.1\OOP_SmallApp.deps.json
+D:\CSharpProjects\OOP_SmallApp\bin\Debug\netcoreapp3.1\OOP_SmallApp.runtimeconfig.json
+D:\CSharpProjects\OOP_SmallApp\bin\Debug\netcoreapp3.1\OOP_SmallApp.runtimeconfig.dev.json
+D:\CSharpProjects\OOP_SmallApp\bin\Debug\netcoreapp3.1\OOP_SmallApp.dll
+D:\CSharpProjects\OOP_SmallApp\bin\Debug\netcoreapp3.1\OOP_SmallApp.pdb
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.dll
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.pdb
+D:\CSharpProjects\OOP_SmallApp\obj\Debug\netcoreapp3.1\OOP_SmallApp.genruntimeconfig.cache
